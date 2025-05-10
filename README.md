@@ -2,7 +2,7 @@
 
 Brainly is a modern content management and knowledge organization platform that helps you collect, organize, and share various types of content from across the web.
 
-![Brainly Dashboard](![image](https://github.com/user-attachments/assets/93e8ab69-b589-4356-88ef-09e5e73ad368)
+[Brainly Dashboard]![image](https://github.com/user-attachments/assets/93e8ab69-b589-4356-88ef-09e5e73ad368)
 
 
 ## Features

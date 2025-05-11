@@ -189,7 +189,7 @@ function Dashboard() {
                 />
               </div>
 
-              <div className="flex gap-2 w-full md:w-auto ">
+              <div className="flex gap-2 w-full md:w-auto mt-3 md:mt-0 md:ml-2">
                 <Button
                   onClick={() => setModalOpen(true)}
                   variant="primary"
